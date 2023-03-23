@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.3aaec935.css",
-    "main.js": "/static/js/main.e4a0adef.js",
+    "main.js": "/static/js/main.b33fc45a.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/kamal-BishtCVResume.pdf": "/static/media/kamal-BishtCVResume.00ce8f90971834db3f1f.pdf",
     "static/media/contact.f495edec.png": "/static/media/contact.f495edec.57446aee3d2d6821d3c3.png",
     "index.html": "/index.html",
     "main.3aaec935.css.map": "/static/css/main.3aaec935.css.map",
-    "main.e4a0adef.js.map": "/static/js/main.e4a0adef.js.map",
+    "main.b33fc45a.js.map": "/static/js/main.b33fc45a.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3aaec935.css",
-    "static/js/main.e4a0adef.js"
+    "static/js/main.b33fc45a.js"
   ]
 }
